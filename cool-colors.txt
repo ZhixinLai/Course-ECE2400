@@ -1,3 +1,4 @@
 blue
 green
 purple
+cyan
